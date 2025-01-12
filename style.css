@@ -254,7 +254,7 @@ span {
     gap: 2.5rem;
 }
 
-.portfolio-container .portfolio-box {
+.projects-container .portfolio-box {
     position: relative;
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
