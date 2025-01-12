@@ -262,7 +262,7 @@ span {
     display: flex;
 }
 
-.portfolio-box img {
+.projects-box img {
     width: 100%;
     transition: .5s ease;
 }
