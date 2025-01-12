@@ -311,7 +311,7 @@ span {
     border: radius 50%;
 }
 
-.portfolio-layer a i {
+.projects-layer a i {
     font-size: 2rem;
     color: var(--second-bg-color);
 }
