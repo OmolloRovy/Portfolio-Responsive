@@ -288,7 +288,7 @@ span {
     transition: .5s ease;
 }
 
-.portfolio-box:hover .portfolio-layer {
+.projects-box:hover .projects-layer {
     transform: translateY(0);
 }
 
