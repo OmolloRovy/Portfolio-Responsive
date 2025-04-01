@@ -33,7 +33,7 @@ This portfolio website showcases Masime Vanistelrooy's skills and projects in so
 
 1.  **Clone the repository:**
     ```bash
-    git clone [(https://github.com/OmolloRovy/Portfolio-Responsive.git)]
+    git clone (https://github.com/OmolloRovy/Portfolio-Responsive.git)
     ```
 2.  **Open `index.html` in a web browser:**
     * You can simply double-click the `index.html` file to open it in your default browser.
