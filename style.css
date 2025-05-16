@@ -50,8 +50,16 @@ section {
 .header.sticky {
     border-bottom: .1rem solid rgba(0, 0, 0, .2);
 }
-
 .logo {
+    display: flex;
+    align-items: left;
+    color: var(--main-color);
+    font-size: 2.2rem;
+}
+.logo1 {
+    
+    font-weight: 700;
+    color: var(--main-color);
    width: 50px; 
   height: 50px;
 }
